@@ -1,0 +1,7 @@
+openai
+pyautogen
+chess
+python-dotenv
+autogen
+groq
+ipython
